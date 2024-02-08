@@ -8,6 +8,9 @@
 
 
 
+--current api key limit exhausted, sigin to news api with other mailid to get new api key
+
+
 
 
 # Getting Started with Create React App
