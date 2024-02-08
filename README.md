@@ -1,3 +1,15 @@
+![image](https://github.com/Sumanth1147/NewsNow-React/assets/122368378/ee33e709-c5ba-45b4-812e-bbf17f42815d)
+
+-created a news app using react
+-it can fetch news with required category
+-it has features like infinite scroll bar, top loader
+-a news item card, with date and time of news
+- read more button to read full news and few more
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
